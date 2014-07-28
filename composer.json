@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "parcelgo/microsoft-translator": "dev-master",
+        "parcelgo/microsoft-translator": "0.5.*",
         "silex/silex": "1.*"
     },
     "autoload": {
