@@ -1,9 +1,9 @@
 {
-    "name": "parcelgo/microsoft-translator-service-provider",
+    "name": "post2go/microsoft-translator-service-provider",
     "type": "library",
     "description": "Silex service provider for using the Microsoft Translator V2 API",
     "keywords": ["translate","Microsoft Translator", "Bing"],
-    "homepage": "http://github.com/parcelgo/MicrosoftTranslatorServiceProvider",
+    "homepage": "http://github.com/post2go/MicrosoftTranslatorServiceProvider",
     "license": "MIT",
     "authors": [
         {
