@@ -8,7 +8,7 @@ Using Composer, add to ``composer.json``:
 
     {
         "require": {
-            "parcelgo/microsoft-translator-service-provider": "dev-master"
+            "post2go/microsoft-translator-service-provider": "dev-master"
         }
     }
 
